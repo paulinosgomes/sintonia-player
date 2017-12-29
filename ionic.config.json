@@ -1,0 +1,8 @@
+{
+  "name": "sintonia-player",
+  "app_id": "70042f38",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
